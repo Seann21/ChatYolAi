@@ -32,7 +32,7 @@ function App() {
   return (
     <main className='flex flex-col min-h-[80vh] justify-center items-center w-full'>
        <img
-    src="./public/robot.jpg"
+    src="/robot.jpg"
     className="w-32 rounded-full mb-6"
     alt="Avatar"/>
        <h1 className='text-5xl font-bold inline-block text-transparent bg-clip-text bg-gradient-to-r from-purple-700 via-red-600 to-green-500 animate-gradient'>
