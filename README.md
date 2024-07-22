@@ -3,7 +3,7 @@
 <div align="center">
   <img src="public/Chatyol AI.png" alt="Chatyol ai" width="600" height="500" />
 </div>
-
+<br>
 ChatYol AI is an advanced chatbot built with Vite, React.js, and styled using Tailwind CSS. It leverages the GROQ AI API powered by the LLAMA3-8b-8192 model, providing extremely fast response times. The chatbot offers a user-friendly interface with syntax highlighting for code responses, making it easy to understand and interact with.
 
 ## Features
